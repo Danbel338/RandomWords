@@ -1,0 +1,7 @@
+- X crear env file
+- X crear el servidor con express
+- X poner un endpoint para visualizar alguna info
+- x conexión a sqlite
+- x establecer tablas en sqlite
+- x crear api para sqlite de acuerdo al funcionamiento deseado. CRUD (create, read, update, delete)
+- x crear formularios y páginas para acceder y manipular la información
